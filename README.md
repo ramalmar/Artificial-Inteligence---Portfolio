@@ -13,4 +13,9 @@ A project showcasing a reinforcement learning agent capable of learning and mast
 [CarRacing](https://github.com/ramalmar/)
 
 
+
+
+
+
+
 I hope you find these projects interesting. Please feel free to contact me if you have any questions or if you would like to collaborate on an AI project. If you are interested in hiring me for an AI-related position, I am open to job opportunities as well.
