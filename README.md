@@ -3,7 +3,9 @@
 Welcome to my AI project portfolio! Here you can find some examples of my AI projects with links to their respective repositories.
 Projects
 
-Image Classification with Convolutional Neural Networks (CNNs): I implemented a multi-class neural network classification, which aims to identify and categorize various typical Valencian dishes, such as paella, arroz a banda, arroz al horno, and fideuà. It also includes a class capable of identifying paellas that do not follow the traditional recipe
+
+## Paella images classificator
+I implemented a multi-class neural network classification, which aims to identify and categorize various typical Valencian dishes, such as paella, arroz a banda, arroz al horno, and fideuà. It also includes a class capable of identifying paellas that do not follow the traditional recipe
 [PaellaClasificator](https://github.com/ramalmar/)
 
 
