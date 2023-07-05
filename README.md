@@ -9,7 +9,7 @@ I implemented a multi-class neural network classification, which aims to identif
 
 ## Solving the lunar lander environment using Reinforcement learning
 The purpose of this work is to develop a reinforcement learning model capable of solving the problem presented by the "Moon Lander" environment in the Gymnasium library.
-[CarRacing](https://github.com/ramalmar/)
+[CarRacing]([https://github.com/ramalmar/](https://github.com/ramalmar/Lunar-Lander_RL)
 
 
 
